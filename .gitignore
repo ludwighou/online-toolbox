@@ -1,0 +1,5 @@
+node_modules/
+.next/
+out/
+fix_all.py
+fix_chinese.py
