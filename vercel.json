@@ -1,0 +1,900 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/image-compress-online",
+      "destination": "/image-compress",
+      "permanent": true
+    },
+    {
+      "source": "/free-image-compress",
+      "destination": "/image-compress",
+      "permanent": true
+    },
+    {
+      "source": "/online-image-compress",
+      "destination": "/image-compress",
+      "permanent": true
+    },
+    {
+      "source": "/image-crop-online",
+      "destination": "/image-crop",
+      "permanent": true
+    },
+    {
+      "source": "/free-image-crop",
+      "destination": "/image-crop",
+      "permanent": true
+    },
+    {
+      "source": "/online-image-crop",
+      "destination": "/image-crop",
+      "permanent": true
+    },
+    {
+      "source": "/image-format-convert-online",
+      "destination": "/image-format-convert",
+      "permanent": true
+    },
+    {
+      "source": "/image-format-converter",
+      "destination": "/image-format-convert",
+      "permanent": true
+    },
+    {
+      "source": "/free-image-format-convert",
+      "destination": "/image-format-convert",
+      "permanent": true
+    },
+    {
+      "source": "/online-image-format-converter",
+      "destination": "/image-format-convert",
+      "permanent": true
+    },
+    {
+      "source": "/image-watermark-online",
+      "destination": "/image-watermark",
+      "permanent": true
+    },
+    {
+      "source": "/free-image-watermark",
+      "destination": "/image-watermark",
+      "permanent": true
+    },
+    {
+      "source": "/online-image-watermark",
+      "destination": "/image-watermark",
+      "permanent": true
+    },
+    {
+      "source": "/image-bg-remove-online",
+      "destination": "/image-bg-remove",
+      "permanent": true
+    },
+    {
+      "source": "/background-remover",
+      "destination": "/image-bg-remove",
+      "permanent": true
+    },
+    {
+      "source": "/free-image-bg-remove",
+      "destination": "/image-bg-remove",
+      "permanent": true
+    },
+    {
+      "source": "/online-background-remover",
+      "destination": "/image-bg-remove",
+      "permanent": true
+    },
+    {
+      "source": "/image-resize-online",
+      "destination": "/image-resize",
+      "permanent": true
+    },
+    {
+      "source": "/free-image-resize",
+      "destination": "/image-resize",
+      "permanent": true
+    },
+    {
+      "source": "/online-image-resize",
+      "destination": "/image-resize",
+      "permanent": true
+    },
+    {
+      "source": "/image-rotate-online",
+      "destination": "/image-rotate",
+      "permanent": true
+    },
+    {
+      "source": "/free-image-rotate",
+      "destination": "/image-rotate",
+      "permanent": true
+    },
+    {
+      "source": "/online-image-rotate",
+      "destination": "/image-rotate",
+      "permanent": true
+    },
+    {
+      "source": "/image-thumbnail-online",
+      "destination": "/image-thumbnail",
+      "permanent": true
+    },
+    {
+      "source": "/thumbnail-generator",
+      "destination": "/image-thumbnail",
+      "permanent": true
+    },
+    {
+      "source": "/free-image-thumbnail",
+      "destination": "/image-thumbnail",
+      "permanent": true
+    },
+    {
+      "source": "/online-thumbnail-generator",
+      "destination": "/image-thumbnail",
+      "permanent": true
+    },
+    {
+      "source": "/color-picker-online",
+      "destination": "/color-picker",
+      "permanent": true
+    },
+    {
+      "source": "/free-color-picker",
+      "destination": "/color-picker",
+      "permanent": true
+    },
+    {
+      "source": "/online-color-picker",
+      "destination": "/color-picker",
+      "permanent": true
+    },
+    {
+      "source": "/image-merge-online",
+      "destination": "/image-merge",
+      "permanent": true
+    },
+    {
+      "source": "/free-image-merge",
+      "destination": "/image-merge",
+      "permanent": true
+    },
+    {
+      "source": "/online-image-merge",
+      "destination": "/image-merge",
+      "permanent": true
+    },
+    {
+      "source": "/word-count-online",
+      "destination": "/word-count",
+      "permanent": true
+    },
+    {
+      "source": "/word-counter",
+      "destination": "/word-count",
+      "permanent": true
+    },
+    {
+      "source": "/free-word-count",
+      "destination": "/word-count",
+      "permanent": true
+    },
+    {
+      "source": "/online-word-counter",
+      "destination": "/word-count",
+      "permanent": true
+    },
+    {
+      "source": "/json-formatter-online",
+      "destination": "/json-formatter",
+      "permanent": true
+    },
+    {
+      "source": "/free-json-formatter",
+      "destination": "/json-formatter",
+      "permanent": true
+    },
+    {
+      "source": "/online-json-formatter",
+      "destination": "/json-formatter",
+      "permanent": true
+    },
+    {
+      "source": "/json-compress-online",
+      "destination": "/json-compress",
+      "permanent": true
+    },
+    {
+      "source": "/free-json-compress",
+      "destination": "/json-compress",
+      "permanent": true
+    },
+    {
+      "source": "/online-json-compress",
+      "destination": "/json-compress",
+      "permanent": true
+    },
+    {
+      "source": "/base64-encode-online",
+      "destination": "/base64-encode",
+      "permanent": true
+    },
+    {
+      "source": "/base64-encode/decode",
+      "destination": "/base64-encode",
+      "permanent": true
+    },
+    {
+      "source": "/free-base64-encode",
+      "destination": "/base64-encode",
+      "permanent": true
+    },
+    {
+      "source": "/online-base64-encode/decode",
+      "destination": "/base64-encode",
+      "permanent": true
+    },
+    {
+      "source": "/md5-encrypt-online",
+      "destination": "/md5-encrypt",
+      "permanent": true
+    },
+    {
+      "source": "/free-md5-encrypt",
+      "destination": "/md5-encrypt",
+      "permanent": true
+    },
+    {
+      "source": "/online-md5-encrypt",
+      "destination": "/md5-encrypt",
+      "permanent": true
+    },
+    {
+      "source": "/sha-encrypt-online",
+      "destination": "/sha-encrypt",
+      "permanent": true
+    },
+    {
+      "source": "/free-sha-encrypt",
+      "destination": "/sha-encrypt",
+      "permanent": true
+    },
+    {
+      "source": "/online-sha-encrypt",
+      "destination": "/sha-encrypt",
+      "permanent": true
+    },
+    {
+      "source": "/url-encode-online",
+      "destination": "/url-encode",
+      "permanent": true
+    },
+    {
+      "source": "/url-encode/decode",
+      "destination": "/url-encode",
+      "permanent": true
+    },
+    {
+      "source": "/free-url-encode",
+      "destination": "/url-encode",
+      "permanent": true
+    },
+    {
+      "source": "/online-url-encode/decode",
+      "destination": "/url-encode",
+      "permanent": true
+    },
+    {
+      "source": "/html-escape-online",
+      "destination": "/html-escape",
+      "permanent": true
+    },
+    {
+      "source": "/free-html-escape",
+      "destination": "/html-escape",
+      "permanent": true
+    },
+    {
+      "source": "/online-html-escape",
+      "destination": "/html-escape",
+      "permanent": true
+    },
+    {
+      "source": "/markdown-preview-online",
+      "destination": "/markdown-preview",
+      "permanent": true
+    },
+    {
+      "source": "/free-markdown-preview",
+      "destination": "/markdown-preview",
+      "permanent": true
+    },
+    {
+      "source": "/online-markdown-preview",
+      "destination": "/markdown-preview",
+      "permanent": true
+    },
+    {
+      "source": "/text-diff-online",
+      "destination": "/text-diff",
+      "permanent": true
+    },
+    {
+      "source": "/free-text-diff",
+      "destination": "/text-diff",
+      "permanent": true
+    },
+    {
+      "source": "/online-text-diff",
+      "destination": "/text-diff",
+      "permanent": true
+    },
+    {
+      "source": "/regex-test-online",
+      "destination": "/regex-test",
+      "permanent": true
+    },
+    {
+      "source": "/regex-tester",
+      "destination": "/regex-test",
+      "permanent": true
+    },
+    {
+      "source": "/free-regex-test",
+      "destination": "/regex-test",
+      "permanent": true
+    },
+    {
+      "source": "/online-regex-tester",
+      "destination": "/regex-test",
+      "permanent": true
+    },
+    {
+      "source": "/uuid-generator-online",
+      "destination": "/uuid-generator",
+      "permanent": true
+    },
+    {
+      "source": "/free-uuid-generator",
+      "destination": "/uuid-generator",
+      "permanent": true
+    },
+    {
+      "source": "/online-uuid-generator",
+      "destination": "/uuid-generator",
+      "permanent": true
+    },
+    {
+      "source": "/unit-convert-online",
+      "destination": "/unit-convert",
+      "permanent": true
+    },
+    {
+      "source": "/unit-converter",
+      "destination": "/unit-convert",
+      "permanent": true
+    },
+    {
+      "source": "/free-unit-convert",
+      "destination": "/unit-convert",
+      "permanent": true
+    },
+    {
+      "source": "/online-unit-converter",
+      "destination": "/unit-convert",
+      "permanent": true
+    },
+    {
+      "source": "/date-calc-online",
+      "destination": "/date-calc",
+      "permanent": true
+    },
+    {
+      "source": "/date-calculator",
+      "destination": "/date-calc",
+      "permanent": true
+    },
+    {
+      "source": "/free-date-calc",
+      "destination": "/date-calc",
+      "permanent": true
+    },
+    {
+      "source": "/online-date-calculator",
+      "destination": "/date-calc",
+      "permanent": true
+    },
+    {
+      "source": "/timestamp-convert-online",
+      "destination": "/timestamp-convert",
+      "permanent": true
+    },
+    {
+      "source": "/timestamp-converter",
+      "destination": "/timestamp-convert",
+      "permanent": true
+    },
+    {
+      "source": "/free-timestamp-convert",
+      "destination": "/timestamp-convert",
+      "permanent": true
+    },
+    {
+      "source": "/online-timestamp-converter",
+      "destination": "/timestamp-convert",
+      "permanent": true
+    },
+    {
+      "source": "/case-convert-online",
+      "destination": "/case-convert",
+      "permanent": true
+    },
+    {
+      "source": "/case-converter",
+      "destination": "/case-convert",
+      "permanent": true
+    },
+    {
+      "source": "/free-case-convert",
+      "destination": "/case-convert",
+      "permanent": true
+    },
+    {
+      "source": "/online-case-converter",
+      "destination": "/case-convert",
+      "permanent": true
+    },
+    {
+      "source": "/number-base-convert-online",
+      "destination": "/number-base-convert",
+      "permanent": true
+    },
+    {
+      "source": "/number-base-converter",
+      "destination": "/number-base-convert",
+      "permanent": true
+    },
+    {
+      "source": "/free-number-base-convert",
+      "destination": "/number-base-convert",
+      "permanent": true
+    },
+    {
+      "source": "/online-number-base-converter",
+      "destination": "/number-base-convert",
+      "permanent": true
+    },
+    {
+      "source": "/color-convert-online",
+      "destination": "/color-convert",
+      "permanent": true
+    },
+    {
+      "source": "/color-converter",
+      "destination": "/color-convert",
+      "permanent": true
+    },
+    {
+      "source": "/free-color-convert",
+      "destination": "/color-convert",
+      "permanent": true
+    },
+    {
+      "source": "/online-color-converter",
+      "destination": "/color-convert",
+      "permanent": true
+    },
+    {
+      "source": "/text-sort-online",
+      "destination": "/text-sort",
+      "permanent": true
+    },
+    {
+      "source": "/text-sorter",
+      "destination": "/text-sort",
+      "permanent": true
+    },
+    {
+      "source": "/free-text-sort",
+      "destination": "/text-sort",
+      "permanent": true
+    },
+    {
+      "source": "/online-text-sorter",
+      "destination": "/text-sort",
+      "permanent": true
+    },
+    {
+      "source": "/text-dedup-online",
+      "destination": "/text-dedup",
+      "permanent": true
+    },
+    {
+      "source": "/text-deduplicate",
+      "destination": "/text-dedup",
+      "permanent": true
+    },
+    {
+      "source": "/free-text-dedup",
+      "destination": "/text-dedup",
+      "permanent": true
+    },
+    {
+      "source": "/online-text-deduplicate",
+      "destination": "/text-dedup",
+      "permanent": true
+    },
+    {
+      "source": "/useragent-parser-online",
+      "destination": "/useragent-parser",
+      "permanent": true
+    },
+    {
+      "source": "/free-useragent-parser",
+      "destination": "/useragent-parser",
+      "permanent": true
+    },
+    {
+      "source": "/online-useragent-parser",
+      "destination": "/useragent-parser",
+      "permanent": true
+    },
+    {
+      "source": "/ip-lookup-online",
+      "destination": "/ip-lookup",
+      "permanent": true
+    },
+    {
+      "source": "/free-ip-lookup",
+      "destination": "/ip-lookup",
+      "permanent": true
+    },
+    {
+      "source": "/online-ip-lookup",
+      "destination": "/ip-lookup",
+      "permanent": true
+    },
+    {
+      "source": "/css-minify-online",
+      "destination": "/css-minify",
+      "permanent": true
+    },
+    {
+      "source": "/css-minifier",
+      "destination": "/css-minify",
+      "permanent": true
+    },
+    {
+      "source": "/free-css-minify",
+      "destination": "/css-minify",
+      "permanent": true
+    },
+    {
+      "source": "/online-css-minifier",
+      "destination": "/css-minify",
+      "permanent": true
+    },
+    {
+      "source": "/js-minify-online",
+      "destination": "/js-minify",
+      "permanent": true
+    },
+    {
+      "source": "/js-minifier",
+      "destination": "/js-minify",
+      "permanent": true
+    },
+    {
+      "source": "/free-js-minify",
+      "destination": "/js-minify",
+      "permanent": true
+    },
+    {
+      "source": "/online-js-minifier",
+      "destination": "/js-minify",
+      "permanent": true
+    },
+    {
+      "source": "/sql-formatter-online",
+      "destination": "/sql-formatter",
+      "permanent": true
+    },
+    {
+      "source": "/free-sql-formatter",
+      "destination": "/sql-formatter",
+      "permanent": true
+    },
+    {
+      "source": "/online-sql-formatter",
+      "destination": "/sql-formatter",
+      "permanent": true
+    },
+    {
+      "source": "/cron-generator-online",
+      "destination": "/cron-generator",
+      "permanent": true
+    },
+    {
+      "source": "/free-cron-generator",
+      "destination": "/cron-generator",
+      "permanent": true
+    },
+    {
+      "source": "/online-cron-generator",
+      "destination": "/cron-generator",
+      "permanent": true
+    },
+    {
+      "source": "/http-status-online",
+      "destination": "/http-status",
+      "permanent": true
+    },
+    {
+      "source": "/http-status-codes",
+      "destination": "/http-status",
+      "permanent": true
+    },
+    {
+      "source": "/free-http-status",
+      "destination": "/http-status",
+      "permanent": true
+    },
+    {
+      "source": "/online-http-status-codes",
+      "destination": "/http-status",
+      "permanent": true
+    },
+    {
+      "source": "/ascii-table-online",
+      "destination": "/ascii-table",
+      "permanent": true
+    },
+    {
+      "source": "/free-ascii-table",
+      "destination": "/ascii-table",
+      "permanent": true
+    },
+    {
+      "source": "/online-ascii-table",
+      "destination": "/ascii-table",
+      "permanent": true
+    },
+    {
+      "source": "/qrcode-generate-online",
+      "destination": "/qrcode-generate",
+      "permanent": true
+    },
+    {
+      "source": "/qr-code-generator",
+      "destination": "/qrcode-generate",
+      "permanent": true
+    },
+    {
+      "source": "/free-qrcode-generate",
+      "destination": "/qrcode-generate",
+      "permanent": true
+    },
+    {
+      "source": "/online-qr-code-generator",
+      "destination": "/qrcode-generate",
+      "permanent": true
+    },
+    {
+      "source": "/qrcode-decode-online",
+      "destination": "/qrcode-decode",
+      "permanent": true
+    },
+    {
+      "source": "/qr-code-decoder",
+      "destination": "/qrcode-decode",
+      "permanent": true
+    },
+    {
+      "source": "/free-qrcode-decode",
+      "destination": "/qrcode-decode",
+      "permanent": true
+    },
+    {
+      "source": "/online-qr-code-decoder",
+      "destination": "/qrcode-decode",
+      "permanent": true
+    },
+    {
+      "source": "/password-generator-online",
+      "destination": "/password-generator",
+      "permanent": true
+    },
+    {
+      "source": "/free-password-generator",
+      "destination": "/password-generator",
+      "permanent": true
+    },
+    {
+      "source": "/online-password-generator",
+      "destination": "/password-generator",
+      "permanent": true
+    },
+    {
+      "source": "/random-picker-online",
+      "destination": "/random-picker",
+      "permanent": true
+    },
+    {
+      "source": "/free-random-picker",
+      "destination": "/random-picker",
+      "permanent": true
+    },
+    {
+      "source": "/online-random-picker",
+      "destination": "/random-picker",
+      "permanent": true
+    },
+    {
+      "source": "/phone-lookup-online",
+      "destination": "/phone-lookup",
+      "permanent": true
+    },
+    {
+      "source": "/free-phone-lookup",
+      "destination": "/phone-lookup",
+      "permanent": true
+    },
+    {
+      "source": "/online-phone-lookup",
+      "destination": "/phone-lookup",
+      "permanent": true
+    },
+    {
+      "source": "/id-card-parser-online",
+      "destination": "/id-card-parser",
+      "permanent": true
+    },
+    {
+      "source": "/free-id-card-parser",
+      "destination": "/id-card-parser",
+      "permanent": true
+    },
+    {
+      "source": "/online-id-card-parser",
+      "destination": "/id-card-parser",
+      "permanent": true
+    },
+    {
+      "source": "/bank-card-validate-online",
+      "destination": "/bank-card-validate",
+      "permanent": true
+    },
+    {
+      "source": "/bank-card-validator",
+      "destination": "/bank-card-validate",
+      "permanent": true
+    },
+    {
+      "source": "/free-bank-card-validate",
+      "destination": "/bank-card-validate",
+      "permanent": true
+    },
+    {
+      "source": "/online-bank-card-validator",
+      "destination": "/bank-card-validate",
+      "permanent": true
+    },
+    {
+      "source": "/countdown-online",
+      "destination": "/countdown",
+      "permanent": true
+    },
+    {
+      "source": "/countdown-generator",
+      "destination": "/countdown",
+      "permanent": true
+    },
+    {
+      "source": "/free-countdown",
+      "destination": "/countdown",
+      "permanent": true
+    },
+    {
+      "source": "/online-countdown-generator",
+      "destination": "/countdown",
+      "permanent": true
+    },
+    {
+      "source": "/currency-convert-online",
+      "destination": "/currency-convert",
+      "permanent": true
+    },
+    {
+      "source": "/currency-converter",
+      "destination": "/currency-convert",
+      "permanent": true
+    },
+    {
+      "source": "/free-currency-convert",
+      "destination": "/currency-convert",
+      "permanent": true
+    },
+    {
+      "source": "/online-currency-converter",
+      "destination": "/currency-convert",
+      "permanent": true
+    },
+    {
+      "source": "/holiday-calc-online",
+      "destination": "/holiday-calc",
+      "permanent": true
+    },
+    {
+      "source": "/holiday-calculator",
+      "destination": "/holiday-calc",
+      "permanent": true
+    },
+    {
+      "source": "/free-holiday-calc",
+      "destination": "/holiday-calc",
+      "permanent": true
+    },
+    {
+      "source": "/online-holiday-calculator",
+      "destination": "/holiday-calc",
+      "permanent": true
+    },
+    {
+      "source": "/lunar-calendar-online",
+      "destination": "/lunar-calendar",
+      "permanent": true
+    },
+    {
+      "source": "/free-lunar-calendar",
+      "destination": "/lunar-calendar",
+      "permanent": true
+    },
+    {
+      "source": "/online-lunar-calendar",
+      "destination": "/lunar-calendar",
+      "permanent": true
+    },
+    {
+      "source": "/bmi-calc-online",
+      "destination": "/bmi-calc",
+      "permanent": true
+    },
+    {
+      "source": "/bmi-calculator",
+      "destination": "/bmi-calc",
+      "permanent": true
+    },
+    {
+      "source": "/free-bmi-calc",
+      "destination": "/bmi-calc",
+      "permanent": true
+    },
+    {
+      "source": "/online-bmi-calculator",
+      "destination": "/bmi-calc",
+      "permanent": true
+    },
+    {
+      "source": "/age-calc-online",
+      "destination": "/age-calc",
+      "permanent": true
+    },
+    {
+      "source": "/age-calculator",
+      "destination": "/age-calc",
+      "permanent": true
+    },
+    {
+      "source": "/free-age-calc",
+      "destination": "/age-calc",
+      "permanent": true
+    },
+    {
+      "source": "/online-age-calculator",
+      "destination": "/age-calc",
+      "permanent": true
+    }
+  ]
+}
