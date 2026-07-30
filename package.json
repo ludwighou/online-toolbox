@@ -1,0 +1,25 @@
+{
+  "name": "online-toolbox",
+  "version": "1.0.0",
+  "description": "睡后月入4000 - 在线工具箱",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "variants": "node build-variants.js"
+  },
+  "dependencies": {
+    "next": "^14.2.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "qrcode": "^1.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "@types/qrcode": "^1.5.5",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.0"
+  }
+}
